@@ -61,7 +61,7 @@ Each model was evaluated on the test set using the following metrics:
 - **Recall**: How many actual statuses were correctly identified
 - **F1 Score**: Balance between precision and recall (especially important for imbalanced classes)
 
-  ![Model comparison: Precision, Recall and F1 Score](visuals\model_comparison_metrics.png)
+  ![Model comparison: Precision, Recall and F1 Score](visuals/model_comparison_metrics.png)
 
 
 ### 🔍 Summary of Key Results
