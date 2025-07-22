@@ -80,6 +80,8 @@ Each model was evaluated on the test set using the following metrics:
 
 Special attention was paid to the **“Needs Repair”** class, which had the weakest performance due to its minority representation. Addressing this issue is a key focus for improvement.
 
+  ![Class-Wise F1 Score Comparison](visuals/Class-Wise_F1_Score_Comparison.png)
+
 ---
 
 ## ✅ Conclusion
